@@ -1,0 +1,7 @@
+pandas>=1.0.5
+shapely>=1.7.0
+earthengine-api>=0.1.227
+folium>=0.11.0
+matplotlib>=3.2.2
+numpy>=1.19.0
+scipy>=1.5.0
