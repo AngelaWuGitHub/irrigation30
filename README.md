@@ -33,7 +33,7 @@ The easiest way to install `irrigation30` is with `pip3`
 pip3 install irrigation30
 ```
 
-If you are having a hard time getting the right package versions installed, you can set up a virtual environment like so:
+If you are having a hard time getting the right package versions installed, you can set up a virtual environment as follows:
 
 ##### Install with `virtualenv`
 1. `pip3 install virtualenv`
