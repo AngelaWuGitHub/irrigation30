@@ -6,7 +6,7 @@ With this package, users can generate and visualize irrigation predictions with 
 
 This project was developed by a team of UC Berkeley students in the Master’s in Information and Data Science program.
 
-**Website**: https://groups.ischool.berkeley.edu/irrigation30/webdev/
+**Website**: https://groups.ischool.berkeley.edu/irrigation30/
 
 
 ## Installation
